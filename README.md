@@ -1,6 +1,6 @@
 Olá👋
 
-Boas Vindas ao meu Perfil!
+**Boas Vindas ao meu Perfil!**
 
 Meu nome é Bruw
 
